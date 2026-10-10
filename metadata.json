@@ -1,0 +1,6 @@
+{
+  "name": "IDAVELA (ഇടവേള) - Layover Adventure",
+  "description": "Gamified layover travel app turning airport waits into mini-adventures with smart itineraries, real-world missions, Dubai Dash runner, and digital passport stamps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
